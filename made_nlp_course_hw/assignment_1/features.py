@@ -1,4 +1,4 @@
-from collections import OrderedDict
+from collections import OrderedDict, Counter
 from sklearn.base import TransformerMixin
 from typing import List, Union
 import numpy as np
